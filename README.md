@@ -1,7 +1,7 @@
 # Akaki-H-shifter
 ## 3D printable H-pattern shifter for racing simulators.
 
-"[photo](https://cdn.thingiverse.com/assets/9b/3f/48/93/a9/featured_preview_Screen_Shot_2020-09-02_at_22.26.34.jpg)
+![photo](https://cdn.thingiverse.com/assets/9b/3f/48/93/a9/featured_preview_Screen_Shot_2020-09-02_at_22.26.34.jpg)
 
 Highly printable: only external hardware needed is M3 bolts and nuts, two rubber bands, 5 pcs PCB style microswitches, and a compatible Arduino-like microcontroller.
 
